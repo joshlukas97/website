@@ -32,6 +32,7 @@ module.exports = {
     )
     return config
   },
+  target: 'serverless',
   // exportPathMap: function(defaultPathMap) {
   //   return {
   //     '/': { page: '/' }
