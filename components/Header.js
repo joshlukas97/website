@@ -16,7 +16,7 @@ const Header = (props) => (
             <div className="inner">
                 <h1>Hi, I'm Josh</h1>
                 <p>I am currently a full stack software engineer at TDS Telecom. I also love rock climbing at Devil's Lake State Park. <br></br>
-                    Feel free to check out my <a href="https://github.com/joshlukas97">Github</a> or my <a href='https://www.instagram.com/joshlukas/'>Instagram</a>.</p>
+                    Feel free to check out my <a href='https://www.instagram.com/joshlukas/'>Instagram</a>.</p>
             </div>
         </div>
         <nav>
