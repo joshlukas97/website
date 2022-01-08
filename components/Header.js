@@ -12,8 +12,8 @@ const Header = (props) => (
             <div className="inner">
                 <h1>Hi, I'm Josh</h1>
                 <p>I am a full stack software engineer at TDS Telecom. I also love rock climbing at Devil's Lake State Park. <br></br>
-                    Feel free to check out my <a href='https://www.linkedin.com/in/josh-lukas/'>LinkedIn</a>, <a href='https://www.instagram.com/joshlukas/'>Instagram</a>, or <a 
-                    href='https://www.mountainproject.com/user/111704941/josh-lukas'>Mountain Project</a>.</p>
+                    Feel free to check me out on <a href='https://www.linkedin.com/in/josh-lukas/'>LinkedIn</a>, <a href='https://www.instagram.com/joshlukas/'>Instagram</a>, or <a 
+                    href='https://www.mountainproject.com/user/111704941/josh-lukas'>Mountain Project</a>, or <a href="https://www.youtube.com/channel/UCkfvcwTxF0gTX8pOCHpKX_g">YouTube</a>.</p>
             </div>
         </div>
         <nav>
