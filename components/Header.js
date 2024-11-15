@@ -11,7 +11,7 @@ const Header = (props) => (
         <div className="content">
             <div className="inner">
                 <h1>Hi, I'm Josh</h1>
-                <p>I am a front end software developer at High Touch Inc. I also love rock climbing at Devil's Lake State Park. <br></br>
+                <p>I am a front end software developer at High Touch Inc. I also love rock climbing. <br></br>
                     Feel free to check me out on <a href='https://www.linkedin.com/in/josh-lukas/'>LinkedIn</a>, <a href='https://www.instagram.com/joshlukas/'>Instagram</a>, or <a 
                     href='https://www.mountainproject.com/user/111704941/josh-lukas'>Mountain Project</a>, or <a href="https://www.youtube.com/channel/UCkfvcwTxF0gTX8pOCHpKX_g">YouTube</a>.</p>
             </div>
@@ -20,7 +20,7 @@ const Header = (props) => (
             <ul>
                 {/* <li><a href="javascript:;" onClick={() => {props.onOpenArticle('intro')}}>Intro</a></li> */}
                 <li><a href="javascript:;" onClick={() => {props.onOpenArticle('about')}}>About</a></li>
-                <li><a href="https://drive.google.com/file/d/1tjf4jqI6PelTQa1VSXQsmypZf3SKILeb/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a></li>
+                <li><a href="https://drive.google.com/file/d/1LdNGvwMji8RQRU22nuC4TOC_JaXp8ZXJ/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a></li>
                 <li><a href="mailto:joshlukas97@gmail.com">Contact</a></li>
             </ul>
         </nav>

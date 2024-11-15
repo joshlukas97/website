@@ -16,12 +16,14 @@ class Main extends React.Component {
         <article id="About" className={`${this.props.article === 'about' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">About</h2>
           <span className="image main"><img src="/static/images/ice.jpg" alt="Devil's Lake at the end of winter." /></span>
-          <p>I'm a front end software developer at High Touch Inc, where I have worked since 2021 using Vue. 
-            Before that, I was a full stack software engineer at TDS Telecom, 
-            from 2018 to 2020. There, split my time roughly two thirds front end to one third back end.  
-            In my free time, I’m also an avid rock climber with lots of volunteer
-          time at UW-Madison’s Hoofer Mountaineering Club.</p>
-          {/* <p>At TDS, I use React and Go to create a dashboard and REST API. I also have experience using SQL (Oracle) to build endpoints, and Ranorex to test interfaces.</p> */}
+          <p>I'm a full stack software engineer at High Touch Inc, where I have worked since Fall 2021. Currently, I'm working 
+            on <a href="https://nigel.com">Nigel</a>, but I've also spent time working on <a href="https://cynergisuite.com/">Cynergi Suite</a>. 
+            Before that, I was a full stack software engineer at TDS Telecommunications
+            from 2018 to 2020.  
+            In my free time, I’m also an avid rock climber.</p>
+          <p>At High Touch I've worked with a variety of technologies. I spend most of my time doing front end work with either Vue or React, but I will often 
+            do backend work as well, in any of Node, Java, and Kotlin.
+          </p>
           {close}
         </article>
 
